@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/16/user/898861).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Тараканов](https://htmlacademy.ru/profile/id487569).
 
 ---
 
